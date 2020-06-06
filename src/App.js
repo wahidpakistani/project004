@@ -6,6 +6,8 @@ function App() {
   return (
     <div className="App">
      <h1>Hello world Pakistan</h1>
+     <h1>Pakistan Zindabad</h1>
+
     </div>
   );
 }
